@@ -1,6 +1,6 @@
 # LLM From Scratch
 
-Inspired by [Andrej Karpathy's "Zero to Hero" Neural Network series](https://www.youtube.com/@karpathy), this repository is dedicated to building a deep understanding of large language models (LLMs) from the ground up.
+Inspired by Andrej Karpathy's lectures and repos, this repository is dedicated to building a deep understanding of large language models (LLMs) from the ground up.
 
 ## Goals
 
